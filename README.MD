@@ -1,6 +1,4 @@
-# Projeto de Consulta de Cantores Famosos
-
-Este projeto utiliza a biblioteca `langchain` para consultar o cantor mais famoso de uma determinada localidade. A seguir, apresentamos uma explicação detalhada sobre o funcionamento do código e os comandos utilizados.
+# Projeto Estud sobre LangChain Agents
 
 ## Estrutura do Projeto
 
