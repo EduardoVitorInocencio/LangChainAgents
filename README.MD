@@ -1,4 +1,4 @@
-# Projeto Estud sobre LangChain Agents
+# Projeto de Estudo sobre LangChain Agents
 
 ## Estrutura do Projeto
 
